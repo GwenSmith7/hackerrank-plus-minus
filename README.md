@@ -1,5 +1,5 @@
 # hackerrank-plus-minus
-My solution for the Plus Minus challenge on HackerRank
+My solution for the Plus Minus challenge on HackerRank. I've only included the function that I needed to create.
 
 Overview of the challenge:
 
